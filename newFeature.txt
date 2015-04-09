@@ -1,0 +1,10 @@
+New feature func added here
+FeatureA() {
+echo "new feature code"
+
+fix() {
+echo "Fixing some bugs"
+
+}
+
+}
